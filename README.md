@@ -21,3 +21,21 @@ ChatGPT的示範（10分鐘）：主持人演示如何使用ChatGPT來回答問�
 總結（5分鐘）：主持人總結今天的活動，回顧ChatGPT的功能和用法，並提供額外的資源和建議，以便參與者可以進一步學習和應用ChatGPT。
 結束（至少1分鐘）：主持人結束活動，謝謝參與者的參與，並再次強調ChatGPT的重要性和應用價值。
 ```
+
+### 問答收錄
+```
+Q: What are some things that might be worth dedicating 10 years of effort to achieve?
+
+A: Sure, here are 10 things that may be worth 10 years of effort to achieve:
+
+1. Mastery of a skill or craft, such as playing a musical instrument, painting, or writing.
+2. Building a successful business or career.
+3. Developing and maintaining strong relationships with family and friends.
+4. Earning an advanced degree or certification in a field that you're passionate about.
+5. Traveling the world and experiencing different cultures.
+6. Achieving a high level of physical fitness or completing a challenging athletic goal, such as running a marathon or climbing a mountain.
+7. Saving and investing for retirement or financial independence.
+8. Volunteering regularly for a cause that you believe in and making a positive impact on your community.
+9. Learning a new language or mastering a difficult subject.
+10. Overcoming a personal struggle or addiction and achieving mental and emotional well-being.
+```
