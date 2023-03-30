@@ -23,7 +23,7 @@ ChatGPT的示範（10分鐘）：主持人演示如何使用ChatGPT來回答問�
 ```
 
 ### 問答收錄 FAQ
-- Q: What are some things that might be worth dedicating 10 years of effort to achieve?
+##### Q: What are some things that might be worth dedicating 10 years of effort to achieve?
 ```
 A: Sure, here are 10 things that may be worth 10 years of effort to achieve:
 
@@ -37,4 +37,25 @@ A: Sure, here are 10 things that may be worth 10 years of effort to achieve:
 8. Volunteering regularly for a cause that you believe in and making a positive impact on your community.
 9. Learning a new language or mastering a difficult subject.
 10. Overcoming a personal struggle or addiction and achieving mental and emotional well-being.
+```
+
+##### Q: How to read a book with 1000+ pages 
+```
+A: Reading a book with 1000+ pages may seem daunting at first, but with a little bit of planning and persistence, it is definitely achievable. Here are some tips on how to read a long book:
+
+1. Create a reading schedule: Break the book into smaller chunks and set a goal to read a certain number of pages each day or week. This can help you make steady progress and stay motivated.
+
+2. Find a comfortable reading environment: Choose a quiet and comfortable place to read where you can concentrate without distractions.
+
+3. Take breaks: Take short breaks every 30-45 minutes to stretch, rest your eyes, and refresh your mind.
+
+4. Annotate and highlight: Use a pen or highlighter to mark important passages, quotes, or ideas as you read. This will help you to remember and understand the material better.
+
+5. Discuss the book with others: Join a book club or find a reading buddy to discuss the book with. This can help you to stay motivated, gain new insights, and get a different perspective on the book.
+
+6. Use audio or e-book versions: Consider using an audio or e-book version of the book to help you get through it more quickly. You can listen to the audio version while doing other activities, such as exercising or commuting, or use an e-book version to read on your phone or tablet when you're on the go.
+
+7. Stay engaged: Try to stay engaged with the book by visualizing the scenes and characters, asking questions, and making connections with your own experiences.
+
+Remember, reading a long book can be a rewarding and enriching experience, but it may require some extra effort and commitment. With these tips, you can approach a long book with confidence and enjoy the journey.
 ```
