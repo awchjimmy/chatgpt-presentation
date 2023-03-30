@@ -39,7 +39,7 @@ A: Sure, here are 10 things that may be worth 10 years of effort to achieve:
 10. Overcoming a personal struggle or addiction and achieving mental and emotional well-being.
 ```
 
-##### Q: How to read a book with 1000+ pages 
+##### Q: How to read a book with 1000+ pages?
 ```
 A: Reading a book with 1000+ pages may seem daunting at first, but with a little bit of planning and persistence, it is definitely achievable. Here are some tips on how to read a long book:
 
@@ -58,4 +58,25 @@ A: Reading a book with 1000+ pages may seem daunting at first, but with a little
 7. Stay engaged: Try to stay engaged with the book by visualizing the scenes and characters, asking questions, and making connections with your own experiences.
 
 Remember, reading a long book can be a rewarding and enriching experience, but it may require some extra effort and commitment. With these tips, you can approach a long book with confidence and enjoy the journey.
+```
+
+##### Q: How to start selling digital products online?
+```
+A: Starting to sell digital products online can be a lucrative business venture. Here are some steps to get started:
+
+1. Choose your product: Decide what type of digital product you want to sell. This could be anything from ebooks, music, videos, software, online courses, and more.
+
+2. Identify your target audience: Determine who your ideal customer is and what their needs are. This will help you create products that will appeal to your audience.
+
+3. Create your product: Develop your digital product, whether that’s writing an ebook, recording a video course, or designing software.
+
+4. Set up your website: Create a website where you can showcase your products, provide information about them, and enable customers to purchase them. You can use website builders like WordPress, Squarespace, or Wix to create your site easily.
+
+5. Choose a payment processor: Decide on a payment processor that will allow you to accept payments from customers. PayPal and Stripe are popular options.
+
+6. Market your product: Promote your digital products using social media, email marketing, paid advertising, or other channels to reach your target audience.
+
+7. Deliver your product: Make sure that your customers receive the digital product they purchased promptly, and provide any necessary support or guidance.
+
+By following these steps, you can start selling digital products online and build a successful business. Remember, it may take some time and effort to get things up and running, but with persistence, you can achieve your goals.
 ```
