@@ -1,11 +1,6 @@
 # chatgpt-presentation
 2023-03-28 chatgpt 簡報
 
-### chatgpt 是什麼？
-
-### 問問題範例
-
-
 ### 問答收錄 FAQ
 
 ##### Q: 簡單一句話講什麼是chatgpt
