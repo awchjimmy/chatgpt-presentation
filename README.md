@@ -4,11 +4,7 @@
 ### chatgpt 是什麼？
 
 ### 問問題範例
-```
-問：簡單一句話講什麼是chatgpt
 
-答：ChatGPT是一個人工智慧的語言模型，可以自然地與人進行對話，回答各種問題。
-```
 ```
 問：我想準備一個40分鐘的活動，主題是介紹chatgpt，請列出大致的活動設計
 
@@ -23,6 +19,12 @@ ChatGPT的示範（10分鐘）：主持人演示如何使用ChatGPT來回答問�
 ```
 
 ### 問答收錄 FAQ
+
+##### Q: 簡單一句話講什麼是chatgpt
+```
+A: ChatGPT是一個人工智慧的語言模型，可以自然地與人進行對話，回答各種問題。
+```
+
 ##### Q: What are some things that might be worth dedicating 10 years of effort to achieve?
 ```
 A: Sure, here are 10 things that may be worth 10 years of effort to achieve:
