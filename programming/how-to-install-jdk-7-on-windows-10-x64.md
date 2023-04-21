@@ -10,3 +10,7 @@
 6. 安裝完成後，打開命令提示字元（CMD）或 PowerShell 等命令列工具，輸入 "java -version" 命令，以確認 JDK 是否已正確安裝。如果 JDK 安裝正確，命令列工具會顯示 JDK 的版本信息。
 
 希望這份簡易教學能夠幫助您在 Windows 10 x64 上成功安裝 JDK 7u80！
+
+---
+
+![image](https://user-images.githubusercontent.com/16118028/233516193-3e6b10ac-c174-4f57-80aa-2037d768aa31.png)
