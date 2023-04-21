@@ -13,4 +13,5 @@
 
 ---
 
-![image](https://user-images.githubusercontent.com/16118028/233516193-3e6b10ac-c174-4f57-80aa-2037d768aa31.png)
+![Verify JDK install](images/verify-jdk-install.PNG?raw=true "驗證 JDK 是否安裝成功")
+
